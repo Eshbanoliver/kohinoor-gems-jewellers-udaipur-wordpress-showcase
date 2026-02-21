@@ -19,7 +19,6 @@ Custom WordPress website developed for Kohinoor Gems & Jewellers, a trusted jewe
 - "Why Choose Us" highlights: Unmatched Craftsmanship, Authenticity Guaranteed, Exclusive Collections, Natural Gemstones & Pearls (healing value), Tailored Creations, Trusted Legacy
 - Testimonials carousel with real client quotes praising quality, design, service, packaging, and satisfaction
 - FAQ section covering hallmarking, purity, custom orders, Jadav jewellery, and certifications
-- Contact section with phone (+91 72309 16916 / +91 94141 00590), email (kohinoorgemsandjewellers@gmail.com), address (162-163, Kohinoor Plaza, 1st Floor, In Front of ICICI Bank, Clock Tower, Udaipur, Rajasthan 313001), and inquiry form
 - Responsive, luxurious design optimized for jewellery visuals (mobile-first)
 - SEO-friendly for local Udaipur jewellery/gemstone searches
 
